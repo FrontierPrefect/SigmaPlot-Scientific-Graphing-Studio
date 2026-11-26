@@ -1,0 +1,23 @@
+{
+  "repo": "sigmaplot-scientific-graphing-studio",
+  "product": "SigmaPlot Scientific Graphing Studio",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "sigmaplot-scientific-graphing-studio",
+    "sigmaplot-scientific",
+    "sigmaplot-scientific-studio",
+    "how-to-install-sigmaplot-scientific",
+    "how-to-setup-sigmaplot-scientific",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "sigmaplot-graphing"
+  ],
+  "site": "unaflore.co",
+  "product_title": "SigmaPlot Scientific Graphing Studio"
+}
